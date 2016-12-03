@@ -8,5 +8,10 @@ public interface IntLoginPresenter {
     
     
     
+    
+    
+    
+    
+    
     public void doLogin(String username,String Password);
 }
